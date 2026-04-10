@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply m-0 bg-cream text-brand-950 antialiased;
+    font-family: 'DM Sans', system-ui, sans-serif;
+  }
+}
