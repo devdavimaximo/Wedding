@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LOGIN\\OneDrive\\Documentos\\Projetos\\WedidngPlaner\\WeddingPlannerCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACF949B-EDD3-0629-876C-A8ACA889DCA6}|WeddingPlanner\\WeddingPlanner.csproj|c:\\users\\login\\onedrive\\documentos\\projetos\\wedidngplaner\\weddingplannercsharp\\weddingplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACF949B-EDD3-0629-876C-A8ACA889DCA6}|WeddingPlanner\\WeddingPlanner.csproj|solutionrelative:weddingplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACF949B-EDD3-0629-876C-A8ACA889DCA6}|WeddingPlanner\\WeddingPlanner.csproj|c:\\users\\login\\onedrive\\documentos\\projetos\\wedidngplaner\\weddingplannercsharp\\weddingplanner\\weddingplanner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4ACF949B-EDD3-0629-876C-A8ACA889DCA6}|WeddingPlanner\\WeddingPlanner.csproj|solutionrelative:weddingplanner\\weddingplanner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACF949B-EDD3-0629-876C-A8ACA889DCA6}|WeddingPlanner\\WeddingPlanner.csproj|c:\\users\\login\\onedrive\\documentos\\projetos\\wedidngplaner\\weddingplannercsharp\\weddingplanner\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACF949B-EDD3-0629-876C-A8ACA889DCA6}|WeddingPlanner\\WeddingPlanner.csproj|solutionrelative:weddingplanner\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACF949B-EDD3-0629-876C-A8ACA889DCA6}|WeddingPlanner\\WeddingPlanner.csproj|c:\\users\\login\\onedrive\\documentos\\projetos\\wedidngplaner\\weddingplannercsharp\\weddingplanner\\services\\distributionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACF949B-EDD3-0629-876C-A8ACA889DCA6}|WeddingPlanner\\WeddingPlanner.csproj|solutionrelative:weddingplanner\\services\\distributionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACF949B-EDD3-0629-876C-A8ACA889DCA6}|WeddingPlanner\\WeddingPlanner.csproj|c:\\users\\login\\onedrive\\documentos\\projetos\\wedidngplaner\\weddingplannercsharp\\weddingplanner\\models\\serviceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACF949B-EDD3-0629-876C-A8ACA889DCA6}|WeddingPlanner\\WeddingPlanner.csproj|solutionrelative:weddingplanner\\models\\serviceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACF949B-EDD3-0629-876C-A8ACA889DCA6}|WeddingPlanner\\WeddingPlanner.csproj|c:\\users\\login\\onedrive\\documentos\\projetos\\wedidngplaner\\weddingplannercsharp\\weddingplanner\\models\\servicedistribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACF949B-EDD3-0629-876C-A8ACA889DCA6}|WeddingPlanner\\WeddingPlanner.csproj|solutionrelative:weddingplanner\\models\\servicedistribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACF949B-EDD3-0629-876C-A8ACA889DCA6}|WeddingPlanner\\WeddingPlanner.csproj|c:\\users\\login\\onedrive\\documentos\\projetos\\wedidngplaner\\weddingplannercsharp\\weddingplanner\\models\\distributionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACF949B-EDD3-0629-876C-A8ACA889DCA6}|WeddingPlanner\\WeddingPlanner.csproj|solutionrelative:weddingplanner\\models\\distributionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACF949B-EDD3-0629-876C-A8ACA889DCA6}|WeddingPlanner\\WeddingPlanner.csproj|c:\\users\\login\\onedrive\\documentos\\projetos\\wedidngplaner\\weddingplannercsharp\\weddingplanner\\models\\distributionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACF949B-EDD3-0629-876C-A8ACA889DCA6}|WeddingPlanner\\WeddingPlanner.csproj|solutionrelative:weddingplanner\\models\\distributionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACF949B-EDD3-0629-876C-A8ACA889DCA6}|WeddingPlanner\\WeddingPlanner.csproj|c:\\users\\login\\onedrive\\documentos\\projetos\\wedidngplaner\\weddingplannercsharp\\weddingplanner\\models\\enums\\servicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACF949B-EDD3-0629-876C-A8ACA889DCA6}|WeddingPlanner\\WeddingPlanner.csproj|solutionrelative:weddingplanner\\models\\enums\\servicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeddingPlanner.csproj",
+              "DocumentMoniker": "C:\\Users\\LOGIN\\OneDrive\\Documentos\\Projetos\\WedidngPlaner\\WeddingPlannerCsharp\\WeddingPlanner\\WeddingPlanner.csproj",
+              "RelativeDocumentMoniker": "WeddingPlanner\\WeddingPlanner.csproj",
+              "ToolTip": "C:\\Users\\LOGIN\\OneDrive\\Documentos\\Projetos\\WedidngPlaner\\WeddingPlannerCsharp\\WeddingPlanner\\WeddingPlanner.csproj",
+              "RelativeToolTip": "WeddingPlanner\\WeddingPlanner.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-10T02:03:26.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\LOGIN\\OneDrive\\Documentos\\Projetos\\WedidngPlaner\\WeddingPlannerCsharp\\WeddingPlanner\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "WeddingPlanner\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\LOGIN\\OneDrive\\Documentos\\Projetos\\WedidngPlaner\\WeddingPlannerCsharp\\WeddingPlanner\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "WeddingPlanner\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T01:55:30.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DistributionService.cs",
+              "DocumentMoniker": "C:\\Users\\LOGIN\\OneDrive\\Documentos\\Projetos\\WedidngPlaner\\WeddingPlannerCsharp\\WeddingPlanner\\Services\\DistributionService.cs",
+              "RelativeDocumentMoniker": "WeddingPlanner\\Services\\DistributionService.cs",
+              "ToolTip": "C:\\Users\\LOGIN\\OneDrive\\Documentos\\Projetos\\WedidngPlaner\\WeddingPlannerCsharp\\WeddingPlanner\\Services\\DistributionService.cs",
+              "RelativeToolTip": "WeddingPlanner\\Services\\DistributionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T16:41:10.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LOGIN\\OneDrive\\Documentos\\Projetos\\WedidngPlaner\\WeddingPlannerCsharp\\WeddingPlanner\\Program.cs",
+              "RelativeDocumentMoniker": "WeddingPlanner\\Program.cs",
+              "ToolTip": "C:\\Users\\LOGIN\\OneDrive\\Documentos\\Projetos\\WedidngPlaner\\WeddingPlannerCsharp\\WeddingPlanner\\Program.cs",
+              "RelativeToolTip": "WeddingPlanner\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T03:11:48.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceDistribution.cs",
+              "DocumentMoniker": "C:\\Users\\LOGIN\\OneDrive\\Documentos\\Projetos\\WedidngPlaner\\WeddingPlannerCsharp\\WeddingPlanner\\Models\\ServiceDistribution.cs",
+              "RelativeDocumentMoniker": "WeddingPlanner\\Models\\ServiceDistribution.cs",
+              "ToolTip": "C:\\Users\\LOGIN\\OneDrive\\Documentos\\Projetos\\WedidngPlaner\\WeddingPlannerCsharp\\WeddingPlanner\\Models\\ServiceDistribution.cs",
+              "RelativeToolTip": "WeddingPlanner\\Models\\ServiceDistribution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T03:05:21.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DistributionResult.cs",
+              "DocumentMoniker": "C:\\Users\\LOGIN\\OneDrive\\Documentos\\Projetos\\WedidngPlaner\\WeddingPlannerCsharp\\WeddingPlanner\\Models\\DistributionResult.cs",
+              "RelativeDocumentMoniker": "WeddingPlanner\\Models\\DistributionResult.cs",
+              "ToolTip": "C:\\Users\\LOGIN\\OneDrive\\Documentos\\Projetos\\WedidngPlaner\\WeddingPlannerCsharp\\WeddingPlanner\\Models\\DistributionResult.cs",
+              "RelativeToolTip": "WeddingPlanner\\Models\\DistributionResult.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T02:59:55.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceType.cs",
+              "DocumentMoniker": "C:\\Users\\LOGIN\\OneDrive\\Documentos\\Projetos\\WedidngPlaner\\WeddingPlannerCsharp\\WeddingPlanner\\Models\\Enums\\ServiceType.cs",
+              "RelativeDocumentMoniker": "WeddingPlanner\\Models\\Enums\\ServiceType.cs",
+              "ToolTip": "C:\\Users\\LOGIN\\OneDrive\\Documentos\\Projetos\\WedidngPlaner\\WeddingPlannerCsharp\\WeddingPlanner\\Models\\Enums\\ServiceType.cs",
+              "RelativeToolTip": "WeddingPlanner\\Models\\Enums\\ServiceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T02:51:50.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceItem.cs",
+              "DocumentMoniker": "C:\\Users\\LOGIN\\OneDrive\\Documentos\\Projetos\\WedidngPlaner\\WeddingPlannerCsharp\\WeddingPlanner\\Models\\ServiceItem.cs",
+              "RelativeDocumentMoniker": "WeddingPlanner\\Models\\ServiceItem.cs",
+              "ToolTip": "C:\\Users\\LOGIN\\OneDrive\\Documentos\\Projetos\\WedidngPlaner\\WeddingPlannerCsharp\\WeddingPlanner\\Models\\ServiceItem.cs",
+              "RelativeToolTip": "WeddingPlanner\\Models\\ServiceItem.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T02:45:40.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DistributionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\LOGIN\\OneDrive\\Documentos\\Projetos\\WedidngPlaner\\WeddingPlannerCsharp\\WeddingPlanner\\Models\\DistributionRequest.cs",
+              "RelativeDocumentMoniker": "WeddingPlanner\\Models\\DistributionRequest.cs",
+              "ToolTip": "C:\\Users\\LOGIN\\OneDrive\\Documentos\\Projetos\\WedidngPlaner\\WeddingPlannerCsharp\\WeddingPlanner\\Models\\DistributionRequest.cs",
+              "RelativeToolTip": "WeddingPlanner\\Models\\DistributionRequest.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T02:28:28.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
